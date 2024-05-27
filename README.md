@@ -2,7 +2,7 @@
 
 # DATA-CHALLENGE
 
-In the 15-days Data Challenge With Hertechtrail,i embarked on a comprehensive journey covering various aspects of data analytics and Python programming. Here's a summary of the topics you explored:
+In the 15-days Data Challenge by Hertechtrail Data Analytics Pro track, i embarked on a comprehensive journey covering various aspects of data analytics and Python programming. Here's a summary of the topics you explored:
 
 - Introduction to Data Analytics: Researched and summarized the fundamentals of data analytics and set up Anaconda for Python.
 - Python Fundamentals: Covered basic syntax, variables, and data types in Python.
